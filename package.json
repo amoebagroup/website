@@ -1,0 +1,14 @@
+{
+  "name": "theamoebawebsite",
+  "version": "0.0.0",
+  "description": "theamoebawebsite",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm install"
+  },
+  "author": "TheAmoeba Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.9.7"
+  }
+}

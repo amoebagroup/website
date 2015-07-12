@@ -1,0 +1,36 @@
+The different pages we shall have:
+
+1. Home page.
+2. Events page.
+3. Community Voting
+
+
+Home Page
+------------------------
+
+Welcome to The Amoeba Collective!
+
+Manifesto:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed sagittis metus. Nullam ligula augue, iaculis nec ante ac, luctus aliquet magna. Nam lacus elit, fermentum sit amet commodo ac, euismod ut magna. Quisque suscipit, diam vel pharetra congue, quam tortor maximus nisl, id auctor est odio non orci. Morbi dapibus a velit sed tempus. Nullam maximus orci est, at bibendum sapien consequat non. Curabitur in pulvinar lectus. Praesent dapibus elit vel ex cursus, a finibus felis rhoncus. Maecenas blandit finibus nibh, eu imperdiet libero commodo vel. Pellentesque faucibus neque vel varius mattis. Aenean malesuada ornare lectus, quis dignissim justo iaculis ac. Fusce eget gravida lacus.
+
+
+
+Events Page Content
+---------------------
+
+Weekly meetings:
+
+To be decided.
+
+
+
+Community Voting (this is a functional page)
+--------------------------------------------
+
+When is a good time to have our weekly online meetings on slack
+
+Between 8-10 pm IST (one of the weekdays)
+Between 10 - 12pm IST (one of the weekdays)
+Early evening on Saturdays (between 3 - 5 pm IST)
+Afternoons on Saturdays (between 12 - 2 pm IST)
