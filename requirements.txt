@@ -1,0 +1,9 @@
+node version 	= 0.10.4
+npm version 	= 1.2.18
+express version	= 4.12.4
+
+To install node, go through this link
+	https://www.digitalocean.com/community/tutorials/how-to-install-node-js-with-nvm-node-version-manager-on-a-vps
+
+To install express
+	$ npm install -g express
