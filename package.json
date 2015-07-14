@@ -9,6 +9,7 @@
   "author": "TheAmoeba Team",
   "license": "MIT",
   "dependencies": {
-    "express": "~4.9.7"
+    "express": "~4.9.7",
+    "body-parser": "~1.13.2"
   }
 }
